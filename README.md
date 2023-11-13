@@ -12,33 +12,33 @@ Placeholder
 ## Team Roster
 
 ### Jake Correnti
-\<picture\>
-Product Manager & Backend Engineer
-[GitHub](https://www.github.com/jakecorrenti)
+![](https://github.com/jakecorrenti/tic-tac-math/blob/main/pictures/IMG_2025.jpg)\
+Product Manager & Backend Engineer\
+[GitHub](https://www.github.com/jakecorrenti)\
 [LinkedIn](https://www.linkedin.com/in/jake-correnti-18a84a18b)
 
 ### Scott Landry
-\<picture\>
-[position]
-[GitHub]()
+![placeholder]()\
+[position]\
+[GitHub]()\
 [LinkedIn]()
 
 ### Al-Amin Muhammad
-\<picture\>
-[position]
-[GitHub]()
+![placeholder]()\
+[position]\
+[GitHub]()\
 [LinkedIn]()
 
 ### Paschal Ojatabu
-\<picture\>
-[position]
-[GitHub]()
+![placeholder]()\
+[position]\
+[GitHub]()\
 [LinkedIn]()
 
 ### Mildred Kumah
-\<picture\>
-[position]
-[GitHub]()
+![placeholder]()\
+[position]\
+[GitHub]()\
 [LinkedIn]()
 
 ## SRS 
