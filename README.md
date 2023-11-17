@@ -37,9 +37,8 @@ Engineer
 
 ### Mildred Kumah
 ![placeholder]()\
-Engineer
-[GitHub]()\
-[LinkedIn]()
+Engineer\
+[LinkedIn](http://linkedin.com/in/mildredkumah)
 
 ## SRS 
 Placeholder
