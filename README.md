@@ -6,8 +6,7 @@ My team always enjoyed playing games like Kahoot in school. The idea that you ha
 ## Brief Project Description
 Tic-tac-math is a website that allows two players to play a game of tic-tac-toe. However, there's a twist. In order for a player to put their X or O on the board, they need to answer a randomly generated multiplication problem with the correct answer!
 
-## Original Project Description
-Placeholder
+## [Original Project Description](./docs/project-description.pdf)
 
 ## Team Roster
 
