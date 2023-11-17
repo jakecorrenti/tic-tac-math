@@ -11,31 +11,31 @@ Tic-tac-math is a website that allows two players to play a game of tic-tac-toe.
 ## Team Roster
 
 ### Jake Correnti
-![](./pictures/IMG_2025.jpg)\
+<img src="./pictures/IMG_2025.jpeg" alt="drawing" width="400"/>\
 Product Manager & Engineer\
 [GitHub](https://www.github.com/jakecorrenti)\
 [LinkedIn](https://www.linkedin.com/in/jake-correnti-18a84a18b)
 
 ### Scott Landry
-![](./pictures/IMG_1597.jpg)\
+<img src="./pictures/IMG_1597.jpg" alt="drawing" width="400"/>\
 Engineer\
 [GitHub](https://github.com/Scott-Lan)
 
 
 ### Al-Amin Muhammad
-![](./pictures/Al-Amin_Muhammad_2.jpg)\
+<img src="./pictures/Al-Amin_Muhammad_2.jpg" alt="drawing" width="400"/>\
 Engineer\
 [GitHub]()\
 [LinkedIn]()
 
 ### Paschal Ojatabu
-![](./pictures/paschal.png)\
+<img src="./pictures/IMG_3028.jpeg" alt="drawing" width="400"/>\
 Engineer\
 [GitHub](https://github.com/Paschal105)\
 [LinkedIn](https://www.linkedin.com/in/paschal-ojatabu/)
 
 ### Mildred Kumah
-![](./pictures/mildred.JPG)\
+<img src="./pictures/IMG_2773.jpeg" alt="drawing" width="400"/>\
 Engineer\
 [LinkedIn](http://linkedin.com/in/mildredkumah)
 
