@@ -22,7 +22,7 @@ Product Manager & Engineer\
 ### Scott Landry
 ![](https://github.com/jakecorrenti/tic-tac-math/blob/main/pictures/IMG_1597.jpg)\
 Engineer\
-[GitHub](https://github.com/Scott-Lan)\
+[GitHub](https://github.com/Scott-Lan)
 
 
 ### Al-Amin Muhammad
