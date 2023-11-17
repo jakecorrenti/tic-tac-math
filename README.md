@@ -21,7 +21,7 @@ Product Manager & Engineer\
 
 ### Scott Landry
 ![](https://github.com/jakecorrenti/tic-tac-math/blob/main/pictures/IMG_1597.jpg)\
-Team Member\
+Engineer\
 [GitHub](https://github.com/Scott-Lan)\
 
 
