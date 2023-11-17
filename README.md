@@ -11,31 +11,31 @@ Tic-tac-math is a website that allows two players to play a game of tic-tac-toe.
 ## Team Roster
 
 ### Jake Correnti
-![](https://github.com/jakecorrenti/tic-tac-math/blob/main/pictures/IMG_2025.jpg)\
+![](./pictures/IMG_2025.jpg)\
 Product Manager & Engineer\
 [GitHub](https://www.github.com/jakecorrenti)\
 [LinkedIn](https://www.linkedin.com/in/jake-correnti-18a84a18b)
 
 ### Scott Landry
-![](https://github.com/jakecorrenti/tic-tac-math/blob/main/pictures/IMG_1597.jpg)\
+![](./pictures/IMG_1597.jpg)\
 Engineer\
 [GitHub](https://github.com/Scott-Lan)
 
 
 ### Al-Amin Muhammad
-![](https://github.com/jakecorrenti/tic-tac-toe/blob/main/pictures/Al-Amin_Muhammad_2.jpg)\
+![](./pictures/Al-Amin_Muhammad_2.jpg)\
 Engineer\
 [GitHub]()\
 [LinkedIn]()
 
 ### Paschal Ojatabu
-![](https://github.com/jakecorrenti/tic-tac-toe/blob/main/pictures/paschal.png)\
+![](./pictures/paschal.png)\
 Engineer\
 [GitHub](https://github.com/Paschal105)\
 [LinkedIn](https://www.linkedin.com/in/paschal-ojatabu/)
 
 ### Mildred Kumah
-![](https://github.com/jakecorrenti/tic-tac-toe/blob/main/pictures/mildred.JPG)\
+![](./pictures/mildred.JPG)\
 Engineer\
 [LinkedIn](http://linkedin.com/in/mildredkumah)
 
