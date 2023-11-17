@@ -18,10 +18,10 @@ Product Manager & Backend Engineer\
 [LinkedIn](https://www.linkedin.com/in/jake-correnti-18a84a18b)
 
 ### Scott Landry
-![placeholder]()\
-[position]\
-[GitHub]()\
-[LinkedIn]()
+![](https://github.com/jakecorrenti/tic-tac-math/blob/main/pictures/IMG_1597.jpg)\
+Team Member\
+[GitHub](https://github.com/Scott-Lan)\
+
 
 ### Al-Amin Muhammad
 ![placeholder]()\
