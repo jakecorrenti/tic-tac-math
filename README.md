@@ -24,19 +24,19 @@ Engineer\
 
 
 ### Al-Amin Muhammad
-![placeholder]()\
-Engineer
+![](https://github.com/jakecorrenti/tic-tac-toe/Al-Amin_Muhammad_2.jpg)\
+Engineer\
 [GitHub]()\
 [LinkedIn]()
 
 ### Paschal Ojatabu
-![placeholder]()\
-Engineer
-[GitHub]()\
-[LinkedIn]()
+![](https://github.com/jakecorrenti/tic-tac-toe/paschal.png)\
+Engineer\
+[GitHub](https://github.com/Paschal105)\
+[LinkedIn](https://www.linkedin.com/in/paschal-ojatabu/)
 
 ### Mildred Kumah
-![placeholder]()\
+![](https://github.com/jakecorrenti/tic-tac-toe/mildred.JPG)\
 Engineer\
 [LinkedIn](http://linkedin.com/in/mildredkumah)
 
