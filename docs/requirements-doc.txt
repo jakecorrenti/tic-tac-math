@@ -12,7 +12,7 @@ Instructor:
 
 Start of your text.
 1.1 Purpose
-* Whatís the purpose of the SRS document?
+* What‚Äôs the purpose of the SRS document?
 * Specify the intended audience.
 Start of your text.
 
@@ -36,7 +36,7 @@ Start of your text.
 Start of your text.
 2.1  Product Perspective
 * Describe the context for the product
-* Is it one element that is part of a bigger system? If so, then give a pictorial representation or diagram (e.g., data flow diagram ñ DFD, block diagram) that describes how your product fits. 
+* Is it one element that is part of a bigger system? If so, then give a pictorial representation or diagram (e.g., data flow diagram ‚Äì DFD, block diagram) that describes how your product fits. 
 * Interface Constraints:
 * System interfaces
 * User interfaces
@@ -51,7 +51,7 @@ Start of your text.
 Start of your text.
 
 2.2 Product Functions
-* Summarize the major functions that software will perform (portions may come directly from the customer specification ñ cite as appropriate). 
+* Summarize the major functions that software will perform (portions may come directly from the customer specification ‚Äì cite as appropriate). 
 
 
 * These function descriptions should be easily understandable by the customer or to any general reader. 
@@ -92,7 +92,7 @@ Start of your text.
 1. Sample requirement at the top level
 1.1. Level 2 requirement example
 1.2. Another Level 2 requirement
-2. Select the ìRequirementî Style. 
+2. Select the ‚ÄúRequirement‚Äù Style. 
 
 4 Modeling Requirements 
 * This is the specification portion of the requirements document. (Specifying the bridge between the application domain and the machine domain.)
@@ -117,14 +117,30 @@ Start of your text.
 
 Start of your text.
 
-Use Case Name: Actors:  Description: Type: Includes: Extends:Cross-refs: Uses cases: 
+Use Case Name: 
+
+Actors: 
+ 
+Description: 
+
+Type: 
+
+Includes: 
+
+Extends:
+
+Cross-refs: 
+
+Uses cases: 
+
+
 5 Prototype 
 * Describe what your prototype will show in terms of system functionality.
 5.1 How to Run Prototype
 * Describe what is needed to run your prototype
 * What system configuration? (Should be accessible through web.) Are there plugins? Are there any OS or networking constraints. Give the URL for the prototype. 
 * 
-* Prototype v1 does not have to executable per se. But there should be sufficient number of interfaces for the customer to understand the developmentís interpretation of the requirements. 
+* Prototype v1 does not have to executable per se. But there should be sufficient number of interfaces for the customer to understand the development‚Äôs interpretation of the requirements. 
 * 
 Prototype V2 should also be accessible via a webpage. It should be executable and provide an interactive interface. 
 5.2 Sample Scenarios
@@ -137,7 +153,7 @@ Prototype V2 should also be accessible via a webpage. It should be executable an
 * Include an entry for your project website.
 
 Start of your text.
-[1]   D. Thakore and S. Biswas, ìRouting with Persistent Link Modeling in Intermittently Connected Wireless Networks,î Proceedings of IEEE Military Communication, Atlantic City, October 2005.
+[1]   D. Thakore and S. Biswas, ‚ÄúRouting with Persistent Link Modeling in Intermittently Connected Wireless Networks,‚Äù Proceedings of IEEE Military Communication, Atlantic City, October 2005.
 
 7 Point of Contact
 For further information regarding this document and project, please contact Prof. Daly at University of Massachusetts Lowell (james_daly at uml.edu). All materials in this document have been sanitized for proprietary data. The students and the instructor gratefully acknowledge the participation of our industrial collaborators.  
@@ -147,7 +163,9 @@ For further information regarding this document and project, please contact Prof
 
 
 
-Template based on IEEE Std 830-1998 for SRS. Modifications (content and ordering of information)Revised: 11/4/2019 9:48 AM
+Template based on IEEE Std 830-1998 for SRS. Modifications (content and ordering of information)
+Revised: 11/4/2019 9:48 AM
+
 
 
 
