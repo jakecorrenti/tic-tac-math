@@ -10,31 +10,31 @@ Can be located [here](./docs/project-description.pdf)
 ## Team Roster
 
 ### Jake Correnti
-<img src="./pictures/IMG_2025.jpeg" alt="drawing" width="400"/>\
+<img src="./pictures/IMG_2025.jpeg" alt="drawing" width="200"/>\
 Product Manager & Engineer\
 [GitHub](https://www.github.com/jakecorrenti)\
 [LinkedIn](https://www.linkedin.com/in/jake-correnti-18a84a18b)
 
 ### Scott Landry
-<img src="./pictures/IMG_1597.jpg" alt="drawing" width="400"/>\
+<img src="./pictures/IMG_1597.jpg" alt="drawing" width="200"/>\
 Engineer\
 [GitHub](https://github.com/Scott-Lan)
 
 
 ### Al-Amin Muhammad
-<img src="./pictures/Al-Amin_Muhammad_2.jpg" alt="drawing" width="400"/>\
+<img src="./pictures/Al-Amin_Muhammad_2.jpg" alt="drawing" width="200"/>\
 Engineer\
 [GitHub]()\
 [LinkedIn]()
 
 ### Paschal Ojatabu
-<img src="./pictures/IMG_3028.jpeg" alt="drawing" width="400"/>\
+<img src="./pictures/IMG_3028.jpeg" alt="drawing" width="200"/>\
 Engineer\
 [GitHub](https://github.com/Paschal105)\
 [LinkedIn](https://www.linkedin.com/in/paschal-ojatabu/)
 
 ### Mildred Kumah
-<img src="./pictures/IMG_2773.jpeg" alt="drawing" width="400"/>\
+<img src="./pictures/IMG_2773.jpeg" alt="drawing" width="200"/>\
 Engineer\
 [LinkedIn](http://linkedin.com/in/mildredkumah)
 
