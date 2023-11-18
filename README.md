@@ -47,7 +47,10 @@ SRS Template can be located [here](./docs/requirements-doc-template.docx)
 Placeholder
 
 ## Bibliography
-Placeholder
+- https://www.doe.mass.edu/stem/math/default.html
+- https://www.doe.mass.edu/stem/math/assess-resources.html
+- https://www.doe.mass.edu/frameworks/pguide/g4.pdf
+- https://corestandards.org/wp-content/uploads/2023/09/Math_Standards1.pdf
 
 ## Demonstration Video
 Placeholder
