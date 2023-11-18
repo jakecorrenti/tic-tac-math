@@ -3,6 +3,7 @@ window.addEventListener('DOMContentLoaded', () => {
     const playerDisplay = document.querySelector('.display-player');
     const resetButton = document.querySelector('#reset');
     const announcer = document.querySelector('.announcer');
+    const inputBar = document.querySelector('.problemInput');
 
     let board = ['', '', '', '', '', '', '', '', ''];
     let currentPlayer = 'X';
@@ -29,7 +30,7 @@ window.addEventListener('DOMContentLoaded', () => {
         [0, 4, 8],
         [2, 4, 6]
     ];
-     
+
     function handleResultValidation() {
         let roundWon = false;
         for (let i = 0; i <= 7; i++) {
@@ -90,6 +91,9 @@ window.addEventListener('DOMContentLoaded', () => {
 
     const userAction = (tile, index) => {
         if (isValidAction(tile) && isGameActive) {
+            let answer = prompt("Please enter the following problem correctly to draw your symbol:\n3 x 1")
+            console.log(answer)
+
             tile.innerText = currentPlayer;
             tile.classList.add(`player${currentPlayer}`);
             updateBoard(index);

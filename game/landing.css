@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Itim', cursive;
+}
+
+.background {
+    background-color: #12181B;
+    height: 100vh;
+    padding-top: 1px;
+}
+
+.title {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 10%;
+}
+
+p {
+    color: gray;
+    font-size: 30px;
+    text-align: center;
+    word-wrap: break-work;
+}
+
+.controls {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1em;
+}
+
+#start {
+    background-color: #FF3860;
+    color: white;
+    padding: 8px;
+    margin-top: 5em;
+    border-radius: 8px;
+    border: none;
+    font-size: 30px;
+    margin-left: 1em;
+    cursor: pointer;
+}
