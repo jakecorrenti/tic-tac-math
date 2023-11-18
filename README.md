@@ -42,7 +42,7 @@ Engineer\
 
 
 ## Prototype(s)
-Placeholder
+[UI Draft](./docs/UI\ draft.pdf)
 
 ## Bibliography
 Placeholder
