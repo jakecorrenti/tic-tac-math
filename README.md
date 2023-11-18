@@ -39,7 +39,7 @@ Engineer\
 Engineer\
 [LinkedIn](http://linkedin.com/in/mildredkumah)
 
-## [SRS](./docs/requirements-doc-template.txt)
+## [SRS](./docs/requirements-doc.txt)
 ### [SRS Template](./docs/requirements-doc-template.docx)
 
 
