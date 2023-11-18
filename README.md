@@ -1,10 +1,11 @@
 ## Project Background
-My team always enjoyed playing games like Kahoot in school. The idea that you have to know the material well in order to win was always a motivating factor to pay attention in. We wanted to make something to Kahoot but with a twist.
+Our team always enjoyed playing games like Kahoot in school. The idea that you have to know the material well in order to win was always a motivating factor to pay attention in. We wanted to make something to Kahoot but with a twist.
 
 ## Brief Project Description
 Tic-tac-math is a website that allows two players to play a game of tic-tac-toe. However, there's a twist. In order for a player to put their X or O on the board, they need to answer a randomly generated multiplication problem with the correct answer!
 
-## [Original Project Description](./docs/project-description.pdf)
+## Original Project Description
+Can be located [here](./docs/project-description.pdf)
 
 ## Team Roster
 
@@ -37,14 +38,19 @@ Engineer\
 Engineer\
 [LinkedIn](http://linkedin.com/in/mildredkumah)
 
-## [SRS](./docs/requirements-doc.txt)
-### [SRS Template](./docs/requirements-doc-template.docx)
+## SRS
+Can be located [here](./docs/requirements-doc.txt)\
+SRS Template can be located [here](./docs/requirements-doc-template.docx)
 
 
-## Prototype(s)
-[UI Draft](./docs/ui-draft.pdf)
+## Prototype
+Placeholder
 
 ## Bibliography
 Placeholder
 
 ## Demonstration Video
+Placeholder
+
+## Presentation
+Placeholder
