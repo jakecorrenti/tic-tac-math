@@ -39,8 +39,8 @@ Engineer\
 Engineer\
 [LinkedIn](http://linkedin.com/in/mildredkumah)
 
-## [SRS](./docs/requirements-doc-template.docx)requirements-doc-template.docx
-Placeholder
+## [SRS](./docs/requirements-doc-template.rtf)
+
 
 ## Prototype(s)
 Placeholder
