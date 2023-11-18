@@ -1,5 +1,3 @@
-# Tic-Tac-Math
-
 ## Project Background
 My team always enjoyed playing games like Kahoot in school. The idea that you have to know the material well in order to win was always a motivating factor to pay attention in. We wanted to make something to Kahoot but with a twist.
 
@@ -48,3 +46,5 @@ Placeholder
 
 ## Bibliography
 Placeholder
+
+## Demonstration Video
