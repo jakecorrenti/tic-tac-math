@@ -44,7 +44,7 @@ SRS Template can be located [here](./docs/requirements-doc-template.docx)
 
 
 ## Prototype
-Placeholder
+Game prototype can be located [here](https://jakecorrenti.github.io/tictacmath/)
 
 ## Bibliography
 - https://www.doe.mass.edu/stem/math/default.html
