@@ -24,8 +24,7 @@ Engineer\
 ### Al-Amin Muhammad
 <img src="./pictures/Al-Amin_Muhammad_2.jpg" alt="drawing" width="200"/>\
 Engineer\
-[GitHub]()\
-[LinkedIn]()
+[LinkedIn](https://www.linkedin.com/in/alaminm21j9/)
 
 ### Paschal Ojatabu
 <img src="./pictures/IMG_3028.jpeg" alt="drawing" width="200"/>\
