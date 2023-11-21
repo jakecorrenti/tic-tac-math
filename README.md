@@ -38,12 +38,16 @@ Engineer\
 [LinkedIn](http://linkedin.com/in/mildredkumah)
 
 ## SRS
-Can be located [here](./docs/requirements-doc.txt)\
-SRS Template can be located [here](./docs/requirements-doc-template.docx)
-
+Can be located [here](./docs/TicTacMathSRS.pdf)\
 
 ## Prototype
+<<<<<<< Updated upstream
 Game prototype can be located [here](https://jakecorrenti.github.io/tictacmath/)
+||||||| Stash base
+Placeholder
+=======
+Can be located [here](https://jakecorrenti.github.io/tictacmath/)
+>>>>>>> Stashed changes
 
 ## Bibliography
 - https://www.doe.mass.edu/stem/math/default.html
