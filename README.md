@@ -41,13 +41,7 @@ Engineer\
 Can be located [here](./docs/TicTacMathSRS.pdf)\
 
 ## Prototype
-<<<<<<< Updated upstream
 Game prototype can be located [here](https://jakecorrenti.github.io/tictacmath/)
-||||||| Stash base
-Placeholder
-=======
-Can be located [here](https://jakecorrenti.github.io/tictacmath/)
->>>>>>> Stashed changes
 
 ## Bibliography
 - https://www.doe.mass.edu/stem/math/default.html
