@@ -3,8 +3,21 @@ window.addEventListener('DOMContentLoaded', () => {
     const playerDisplay = document.querySelector('.display-player');
     const resetButton = document.querySelector('#reset');
     const announcer = document.querySelector('.announcer');
+    
+    /*
+       Indexes within the board
+       [0,0] [0,1] [0,2]
+       [1,0] [1,1] [1,2]
+       [2,0] [2,1] [2,2]
+    */
 
-    let board = ['', '', '', '', '', '', '', '', ''];
+    let board = [
+        ['', '', ''],
+        ['', '', ''],
+        ['', '', '']
+    ];   
+
+
     let currentPlayer = 'X';
     let isGameActive = true;
 
@@ -12,38 +25,49 @@ window.addEventListener('DOMContentLoaded', () => {
     const PLAYERO_WON = 'PLAYERO_WON';
     const TIE = 'TIE';
 
-    /*
-       Indexes within the board
-       [0] [1] [2]
-       [3] [4] [5]
-       [6] [7] [8]
-    */
-
-    const winningConditions = [
-        [0, 1, 2],
-        [3, 4, 5],
-        [6, 7, 8],
-        [0, 3, 6],
-        [1, 4, 7],
-        [2, 5, 8],
-        [0, 4, 8],
-        [2, 4, 6]
-    ];
+    function checkWinner(board) {
+        // Iterate through and check all rows and columns
+        for (let i = 0; i < 3; i++) {
+            // Check rows
+            if ((board[i][0] === 'X' || board[i][0] === 'O') &&
+                board[i][0] === board[i][1] && 
+                board[i][0] === board[i][2]) {
+                return board[i][0];
+            }
+    
+            // Check columns
+            if ((board[0][i] === 'X' || board[0][i] === 'O') &&
+                board[0][i] === board[1][i] && 
+                board[0][i] === board[2][i]) {
+                return board[0][i];
+            }
+        }
+    
+        // Check diagonal from top-left to bottom-right
+        if ((board[0][0] === 'X' || board[0][0] === 'O') &&
+            board[0][0] === board[1][1] && 
+            board[0][0] === board[2][2]) {
+            return board[0][0];
+        }
+    
+        // Check diagonal from top-right to bottom-left
+        if ((board[0][2] === 'X' || board[0][2] === 'O') &&
+            board[0][2] === board[1][1] && 
+            board[0][2] === board[2][0]) {
+            return board[0][2];
+        }
+    
+        // No winner
+        return null;
+    }
      
     function handleResultValidation() {
         let roundWon = false;
-        for (let i = 0; i <= 7; i++) {
-            const winCondition = winningConditions[i];
-            const a = board[winCondition[0]];
-            const b = board[winCondition[1]];
-            const c = board[winCondition[2]];
-            if (a === "" || b === "" || c === "") {
-                continue;
-            }
-            if (a === b && b === c) {
-                roundWon = true;
-                break;
-            }
+        //function to get win status
+        const winner = checkWinner(board);
+
+        if (winner != null){
+            roundWon = true;
         }
 
         if (roundWon) {
@@ -52,7 +76,19 @@ window.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        if (!board.includes("")) announce(TIE);
+        let isBoardFull = true;
+        for (let row of board) {
+            if (row.includes('')) {
+                isBoardFull = false;
+                break;
+            }
+        }
+
+        if (isBoardFull) {
+            announce(TIE);
+            isGameActive = false;
+            return;
+        }
     }
 
     const announce = (type) => {
@@ -78,8 +114,11 @@ window.addEventListener('DOMContentLoaded', () => {
     };
 
     const updateBoard = (index) => {
-        board[index] = currentPlayer;
+        const row = Math.floor(index / 3);
+        const col = index % 3;
+        board[row][col] = currentPlayer;
     }
+    
 
     const changePlayer = () => {
         playerDisplay.classList.remove(`player${currentPlayer}`);
@@ -99,7 +138,7 @@ window.addEventListener('DOMContentLoaded', () => {
     }
 
     const resetBoard = () => {
-        board = ['', '', '', '', '', '', '', '', ''];
+        board = board.map(() => ['', '', '']);        
         isGameActive = true;
         announcer.classList.add('hide');
 
