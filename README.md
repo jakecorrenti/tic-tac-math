@@ -38,7 +38,8 @@ Engineer\
 [LinkedIn](http://linkedin.com/in/mildredkumah)
 
 ## SRS
-Can be located [here](./docs/TicTacMathSRS.pdf)\
+Version 1.0 can be located [here](./docs/TicTacMathSRS.pdf)\
+Version 2.0 can be located [here](./docs/TicTacMathSRSv2.pdf)
 
 ## Prototype
 Game prototype can be located [here](https://jakecorrenti.github.io/tictacmath/)
@@ -50,7 +51,7 @@ Game prototype can be located [here](https://jakecorrenti.github.io/tictacmath/)
 - https://corestandards.org/wp-content/uploads/2023/09/Math_Standards1.pdf
 
 ## Demonstration Video
-[](https://github.com/jakecorrenti/tic-tac-math/assets/62579373/da088f91-e99e-4884-b24b-770eff710e9d)
+Can be located [here](https://youtu.be/nZ8BbqVfYs0)
 
 ## Presentation
-Placeholder
+Can be located [here](https://docs.google.com/presentation/d/1oTUEObFyIK28nmttN9nlYDqfrEFkBoQzZF5M4aGWfg0/edit?usp=sharing)
