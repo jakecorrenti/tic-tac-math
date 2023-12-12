@@ -50,7 +50,7 @@ Game prototype can be located [here](https://jakecorrenti.github.io/tictacmath/)
 - https://corestandards.org/wp-content/uploads/2023/09/Math_Standards1.pdf
 
 ## Demonstration Video
-Placeholder
+https://github.com/jakecorrenti/tic-tac-math/assets/62579373/da088f91-e99e-4884-b24b-770eff710e9d
 
 ## Presentation
 Placeholder
