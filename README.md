@@ -24,8 +24,7 @@ Engineer\
 ### Al-Amin Muhammad
 <img src="./pictures/Al-Amin_Muhammad_2.jpg" alt="drawing" width="200"/>\
 Engineer\
-[GitHub]()\
-[LinkedIn]()
+[LinkedIn](https://www.linkedin.com/in/alaminm21j9/)
 
 ### Paschal Ojatabu
 <img src="./pictures/IMG_3028.jpeg" alt="drawing" width="200"/>\
@@ -39,12 +38,10 @@ Engineer\
 [LinkedIn](http://linkedin.com/in/mildredkumah)
 
 ## SRS
-Can be located [here](./docs/requirements-doc.txt)
-SRS Template can be located [here](./docs/requirements-doc-template.docx)
-
+Can be located [here](./docs/TicTacMathSRS.pdf)\
 
 ## Prototype
-Placeholder
+Game prototype can be located [here](https://jakecorrenti.github.io/tictacmath/)
 
 ## Bibliography
 - https://www.doe.mass.edu/stem/math/default.html
