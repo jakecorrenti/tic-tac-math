@@ -38,7 +38,8 @@ Engineer\
 [LinkedIn](http://linkedin.com/in/mildredkumah)
 
 ## SRS
-Can be located [here](./docs/TicTacMathSRS.pdf)\
+Version 1.0 can be located [here](./docs/TicTacMathSRS.pdf)\
+Version 2.0 can be located [here](./docs/TicTacMathSRSv2.pdf)
 
 ## Prototype
 Game prototype can be located [here](https://jakecorrenti.github.io/tictacmath/)
